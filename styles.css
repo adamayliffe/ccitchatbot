@@ -110,10 +110,10 @@ body{
 }
 #chat-box{
     position: relative;
-    top: 30px;
+    top: 40px;
     padding: 8px 10px;
     font-size: 12px;
-    height: 25rem;
+    height: 24.2rem;
     overflow: auto;
     background: rgb(224,241,253);
     text-align: center;
